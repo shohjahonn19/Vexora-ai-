@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Editor de video sin conexión sincronizado con la música</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_edits">Mis ediciones</string>
+    <string name="nav_create">Crear</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="btn_new">+ NUEVO</string>
+    <string name="explore_music">EXPLORAR MÚSICA</string>
+    <string name="templates">PLANTILLAS</string>
+    <string name="creations">CREACIONES</string>
+    <string name="generate">GENERAR</string>
+    <string name="language">Idioma</string>
+    <string name="theme">Tema</string>
+    <string name="export_resolution">Resolución de exportación</string>
+    <string name="storage">Almacenamiento</string>
+    <string name="export_location">Ubicación de exportación</string>
+    <string name="about">Acerca de</string>
+</resources>
